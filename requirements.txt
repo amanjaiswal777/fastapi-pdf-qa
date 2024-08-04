@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 PyMuPDF
-openai
+openai==0.28
 slack_sdk
 python-multipart
+python-dotenv
