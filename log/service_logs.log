@@ -1,0 +1,8 @@
+config.py - <module> - 2024-08-04 20:48:23,936 - INFO - Environment variables loaded successfully
+main.py - save_uploaded_file - 2024-08-04 20:48:33,208 - INFO - File saved to /tmp/handbook.pdf
+pdf_extractor.py - extract_text_from_pdf - 2024-08-04 20:48:33,353 - INFO - Extracted text from /tmp/handbook.pdf
+query_llm.py - generate_answer - 2024-08-04 20:48:39,078 - INFO - Generated answer: The name of the company is Zania, Inc.
+query_llm.py - evaluate_confidence - 2024-08-04 20:48:42,172 - INFO - Evaluated confidence: high
+query_llm.py - generate_answer - 2024-08-04 20:48:44,271 - INFO - Generated answer: The CEO of the company is Shruti Gupta.
+query_llm.py - evaluate_confidence - 2024-08-04 20:48:46,703 - INFO - Evaluated confidence: high
+main.py - process_questions - 2024-08-04 20:48:46,704 - INFO - Processed questions: {'What is the name of the company?': 'The name of the company is Zania, Inc.', 'Who is the CEO of the company?': 'The CEO of the company is Shruti Gupta.'}

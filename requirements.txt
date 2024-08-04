@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+PyMuPDF
+openai
+slack_sdk
+python-multipart
